@@ -1,6 +1,6 @@
-## Face_Recognization_model
-## run the in your Jupyter Notebook or Google Colaboratory
-##install the following library to sucessfully run your code
+## Face_Recognition_model
+## Run the file in your Jupyter Notebook or Google Colaboratory
+## install the following library to sucessfully run your code
 
 ### for numerical operation
 ```bash
